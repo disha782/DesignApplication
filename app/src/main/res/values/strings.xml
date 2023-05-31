@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DesignApplication</string>
+    <string name="button_name">Customize Desktop</string>
+    <string name="text_name">Layout</string>
+</resources>
